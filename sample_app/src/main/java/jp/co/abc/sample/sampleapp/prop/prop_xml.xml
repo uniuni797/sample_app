@@ -1,0 +1,7 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>XMLで記述したプロパティファイル</comment>
+<entry key="key">value</entry>
+<entry key="プロパティ">XMLで読み込んでみた</entry>
+</properties>
